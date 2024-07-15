@@ -1,5 +1,6 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
+import "./Animista.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
